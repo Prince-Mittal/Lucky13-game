@@ -136,7 +136,7 @@ class Lucky13{
         }
     public static void main(String args[]){
         Scanner scan=new Scanner(System.in);
-        System.out.println("-------------------------Lucky Thirteen-------------------------\n                       A game for 2 players");
+        System.out.println("------------------------Lucky Thirteen------------------------\n                       A game for 2 players");
         System.out.println("The object of this game is to be the first player to make a line of 3 numbers that add up to 13.");
         System.out.println("Player take turns to throw a dice and write the number anywhere on the grid");
         System.out.println("Players have to try to make a line of 3 numbers that add up to 13. The line\ncan be vertical or horizontal and it can be made up of numbers written by each\n player. The winner is the first person who creates a line adding up to 13.");
